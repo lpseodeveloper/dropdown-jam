@@ -1,0 +1,16 @@
+blockquote {
+  font-style: italic;
+}
+
+.hidden {
+  display: none;
+}
+
+.image-source {
+  font-style: italic;
+  color: grey;
+}
+
+#menu-button:hover > ul {
+  display: block;
+}
